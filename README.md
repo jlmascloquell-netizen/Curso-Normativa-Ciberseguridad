@@ -1,2 +1,2 @@
-# Curso-Normativa-Ciberseguridad
-Apunts del mòdul de Normativa en Ciberseguritat
+# Projecte de CI/CD
+Documentació del projecte de CI/CD

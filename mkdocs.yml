@@ -1,5 +1,7 @@
-site_name: Normativa en ciberseguretat
-site_description: Normativa en ciberseguretat para el módulo de ciberseguridad
+site_name: Projecte de CI/CD
+site_description: Documentació del projecte de CI/CD
+site_url: https://jose-luis-mas-cloquell.github.io/ci-cd/
+site_dir: site
 site_author: Jose Luis Mas Cloquell
 theme: readthedocs # O 'mkdocs'
 nav:
